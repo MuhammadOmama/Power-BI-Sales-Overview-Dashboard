@@ -1,5 +1,3 @@
-# Power-BI-Sales-Overview-Dashboard
-
 # 📊 Sales Analytics Dashboard – Power BI Project
 
 This project presents a comprehensive **Sales Analytics Dashboard** built in **Power BI**. It helps stakeholders visualize and explore key sales metrics across different dimensions like **category**, **country**, **city**, and **payment mode**.
