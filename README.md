@@ -66,3 +66,8 @@ A dynamic Power BI dashboard that provides visual insights into sales performanc
 
 ## 📎 Project Structure
 
+Sales-Analytics-Dashboard/
+│
+├── Sales_Overview_Dashboard.pbix # Power BI file
+├── 24e67c50-7393-42d5-82e0-b78189eaa294.png # Dashboard Screenshot
+└── README.md # Project Documentation
