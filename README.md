@@ -1,17 +1,15 @@
 # Power-BI-Sales-Overview-Dashboard
-A dynamic Power BI dashboard that provides visual insights into sales performance by category, region, and payment mode. Features KPIs, maps, filters, and interactive charts.
 
 # 📊 Sales Analytics Dashboard – Power BI Project
 
 This project presents a comprehensive **Sales Analytics Dashboard** built in **Power BI**. It helps stakeholders visualize and explore key sales metrics across different dimensions like **category**, **country**, **city**, and **payment mode**.
 
+A dynamic Power BI dashboard that provides visual insights into sales performance by category, region, and payment mode. Features KPIs, maps, filters, and interactive charts.
 ---
 
 ## 🖼 Dashboard Preview
 
 ![Sales_Analytics_Dashboard](https://github.com/user-attachments/assets/f5311c73-4bee-4071-8ad1-4fdd4adc5cd8)
-
-![Sales Overview Dashboard](24e67c50-7393-42d5-82e0-b78189eaa294.png)
 
 ---
 
